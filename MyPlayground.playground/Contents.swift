@@ -29,4 +29,14 @@ else{
     print("im not sure about coding")
 }
     
+var numberOne = 100
+var numberTwo = 50
 
+if (numberOne < numberTwo) {
+    
+    print ("gold")
+}
+
+else{
+    print ("silver")
+}
