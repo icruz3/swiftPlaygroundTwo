@@ -40,3 +40,15 @@ if (numberOne < numberTwo) {
 else{
     print ("silver")
 }
+
+var firstPlace = "winner"
+var secondPlace = "loser"
+
+
+if firstPlace == "winner"
+{
+    var thirdPlace = firstPlace + " " + secondPlace
+    
+print (thirdPlace)
+}
+
