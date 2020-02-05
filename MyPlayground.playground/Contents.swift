@@ -50,3 +50,9 @@ if thirdPlace == "top three"
 print (thirdPlace)
 }
 
+var red: Bool = true
+var blue: Bool = false
+
+var pink: Bool = blue
+
+ print (pink)
