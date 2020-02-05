@@ -43,12 +43,10 @@ else{
 
 var firstPlace = "winner"
 var secondPlace = "loser"
-
-
-if firstPlace == "winner"
-{
-    var thirdPlace = firstPlace + " " + secondPlace
+    var thirdPlace = firstPlace + secondPlace
     
+if thirdPlace == "top three"
+{
 print (thirdPlace)
 }
 
